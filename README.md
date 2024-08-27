@@ -2,7 +2,7 @@
 ## 全自动原神预下载音乐解包与对比工具
 ## Fully Automated Genshin Pre-Download Music Unpacking & Comparison Tool
 
-### 功能概述
+### 功能
 
 - **自动识别路径**：自动检测原神的安装路径，并复制游戏中的音乐文件。
 - **自动处理预下载**：自动下载原神新版本（预下载）的音乐文件，进行提取、去重并输出新增的音乐文件。
