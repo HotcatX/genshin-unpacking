@@ -1,5 +1,5 @@
 
-## 全自动原神音乐(预下载）解包&分析工具
+## 全自动原神音乐（预下载）解包&分析工具
 ## Fully Automated Genshin Pre-Download Music Unpacking & Comparison Tool
 
 ### 功能
