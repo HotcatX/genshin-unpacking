@@ -32,7 +32,7 @@ def check_and_prompt_for_new_game_files():
         else:
             print("保留旧的预下载文件。")
     else:
-        print(f"未找到 Music0.pck 文件，跳过询问。")
+        print(f"未找到 Music0.pck 文件")
 
 def find_genshin_path_with_reg_query():
     try:
