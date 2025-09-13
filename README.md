@@ -1,21 +1,4 @@
 
-## 全自动原神音乐（预下载）解包&分析工具
-## Fully Automated Genshin Pre-Download Music Unpacking & Comparison Tool
-
-### 功能
-
-- **自动识别路径**：自动检测原神的安装路径，并复制游戏中的音乐文件。
-- **预下载处理**：自动从米哈游官方接口下载原神新版本（预下载）的音乐文件，无须手动下载几十G的差分更新文件，免去了使用hdiff工具解密的过程。
-- **自动提取比较**：脚本将自动提取音乐文件进行比较和去重并输出新增的音乐文件。
-- 该脚本也可用于米家其他游戏及音频分析，前提是你需要知道Game_id和文件结构。
-
-### 使用
-
-1. 运行 `Main.py` 脚本，需要安装原神，否则必须手动复制音乐文件到Original Game Files文件夹，路径为\\Mihoyo\\Genshin Impact\\Genshin Impact Game\\YuanShen_Data\\StreamingAssets\\AudioAssets\\Music*.pck
-2. 脚本将自动进行路径检测、文件复制、文件提取与对比分析。
-3. `New Game Files` 为新版本的预下载音乐文件，`Original Game Files` 为旧版本的音乐文件，`WAV` 文件夹中为新增的音乐文件。
-
-
 ---
 
 ## Fully Automated Genshin Pre-Download Music Unpacking & Comparison Tool
